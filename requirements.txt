@@ -1,0 +1,11 @@
+torch
+numpy
+transformers
+peft
+tensorboard
+streamlit
+pandas
+plotly
+requests
+flask
+beautifulsoup4
