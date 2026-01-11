@@ -1,4 +1,4 @@
-# Reddit Moderation Dashboard
+# Reddit Moderation Framework
 
 ## Quick Start Guide
 
